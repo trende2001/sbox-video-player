@@ -1,0 +1,26 @@
+{
+  "Title": "Custom Video Player",
+  "Type": "addon",
+  "Org": "trend",
+  "Ident": "custom_video_player",
+  "Tags": "map entity",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [
+    "carsonk.mediahelpers"
+  ],
+  "EditorReferences": null,
+  "Metadata": {
+    "CsProjName": "",
+    "PrimaryAsset": "",
+    "PhysicsMins": "-1,-1,-1",
+    "PhysicsMaxs": "1,1,1",
+    "RenderMins": "-1,-1,-1",
+    "RenderMaxs": "-1,-1,-1"
+  }
+}
